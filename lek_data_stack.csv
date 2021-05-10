@@ -1,4 +1,4 @@
-date,day,Car_type 1,Car_type 2,Car_type 3,Car_type 4,Car_type 5,Car_type 6,Car_type 2P
+date,day,CarType 1,CarType 2,CarType 3,CarType 4,CarType 5,CarType 6,CarType 2P
 5/1/2015,1,121,40,40,40,12,0,71
 5/2/2015,2,78,45,66,0,22,3,84
 5/3/2015,3,94,56,51,19,6,0,67
